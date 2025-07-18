@@ -14,3 +14,5 @@ Press Y to guard
 In Semi-Auto Mode, your character will automatically close-in to attack the enemy when pressing A
 
 The CC Guage (Above your character Icon/health) is used for attacks, normal attacks deplete the Guage by 1, stronger attacks deplete it further, standing still or guarding fills the guage.
+
+Press B to use Artes (you can also use B and Left, Right, or Down on the d-pad for different Artes!)
