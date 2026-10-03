@@ -1,4 +1,4 @@
-# kerororpgen
+# Keroro RPG: Foxtail Patch
 The unofficial translation of Keroro RPG!
 
 
@@ -11,9 +11,11 @@ The unofficial translation of Keroro RPG!
 
 **Names:** 99%
 
-**Towns:** 100%
+**Town Names:** 100%
 
-**Dungeons:** 50%
+**Dungeon Names:** 50%
+
+**Skits:** 1%
 
 ## Notes
 The Tutorial is currently UNTRANSLATED (I'm working on it, I promise! just having trouble finding/opening it) Below are the controls:
