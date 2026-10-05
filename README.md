@@ -2,6 +2,10 @@
 The unofficial translation of Keroro RPG!
 
 
+## Notice
+The translations within this repo are not authorized for use in AI projects regarding keroro RPG.
+
+
 ## Translation Progress
 **Intro Cutscene:** 100% (Yay!)
 
