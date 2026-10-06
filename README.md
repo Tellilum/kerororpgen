@@ -1,6 +1,10 @@
 # Keroro RPG: Foxtail Patch
 The unofficial translation of Keroro RPG!
 
+## Credits
+- LoneZ for Ui
+- Dani for story reference (https://tinytanpopo.tumblr.com/tagged/let%27s%20play%20keroro%20rpg/page/5)
+- Myself for smaller translations and patch creation c:
 
 ## Notice
 The translations within this repo are not authorized for use in AI projects regarding keroro RPG.
