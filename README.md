@@ -25,6 +25,10 @@ The translations within this repo are not authorized for use in AI projects rega
 
 **Skits:** 1%
 
+**Guide Entries:** 50%
+
+**Bestiary Entries:** 1%
+
 ## Notes
 The Tutorial is currently UNTRANSLATED (I'm working on it, I promise! just having trouble finding/opening it) Below are the controls:
 
